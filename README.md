@@ -1,6 +1,6 @@
 ![Azulo Main Page screenshot](https://raw.githubusercontent.com/omgupta1608/azulo/master/data/git-ss.png)
 # Azulo
-A Video Chat web application powered by NodeJS and Socket.io which also has a built-in real time chat funtionality allowing users to either communication over video/audio or text (chat).
+A Video Chat web application powered by NodeJS and Socket.io which also has a built-in real time chat funtionality allowing users to either communicate over video/audio or text (chat).
 
 # Usage
 Clone the repository and run npm install.
