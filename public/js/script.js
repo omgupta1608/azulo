@@ -55,15 +55,15 @@
 //     videoGrid.append(video);
 // }
 
-const socket = io('/')
-const videoGrid = document.getElementById('video-grid')
+const socket = io('/');
+const videoGrid = document.getElementById('video-grid');
 const myPeer = new Peer(undefined, {
   path: '/peerjs',
   host: '/',
   port: '3030'
-})
+});
 let myVideoStream;
-const myVideo = document.createElement('video')
+const myVideo = document.createElement('video');
 myVideo.muted = true;
 
 navigator.mediaDevices.getUserMedia({
