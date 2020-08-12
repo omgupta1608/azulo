@@ -1,0 +1,3 @@
+Sends video streams between different users by perr to peer functionality which is implemented using PeerJS
+
+https://raw.githubusercontent.com/omgupta1608/azulo/master/data/git-ss.png
